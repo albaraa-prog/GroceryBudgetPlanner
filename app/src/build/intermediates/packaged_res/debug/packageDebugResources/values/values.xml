@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grocery_categories">
+        <item>Food</item>
+        <item>Beverages</item>
+        <item>Household</item>
+        <item>Personal Care</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">GroceryBudgetPlanner</string>
+    <string name="gcm_defaultSenderId" translatable="false">346475148242</string>
+    <string name="google_api_key" translatable="false">AIzaSyCiZXugq05LvQB4lh9MLgI16WruEQcaxaU</string>
+    <string name="google_app_id" translatable="false">1:346475148242:android:dac636d90252f579abce0b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCiZXugq05LvQB4lh9MLgI16WruEQcaxaU</string>
+    <string name="google_storage_bucket" translatable="false">grocery-budget-planner-124a2.firebasestorage.app</string>
+    <string name="navigation_drawer_close"/>
+    <string name="navigation_drawer_open"/>
+    <string name="project_id" translatable="false">grocery-budget-planner-124a2</string>
+    <style name="Base.Theme.GroceryBudgetPlanner" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GroceryBudgetPlanner" parent="Base.Theme.GroceryBudgetPlanner"/>
+</resources>

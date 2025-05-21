@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GroceryBudgetPlanner</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <string-array name="grocery_categories">
+        <item>Food</item>
+        <item>Beverages</item>
+        <item>Household</item>
+        <item>Personal Care</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

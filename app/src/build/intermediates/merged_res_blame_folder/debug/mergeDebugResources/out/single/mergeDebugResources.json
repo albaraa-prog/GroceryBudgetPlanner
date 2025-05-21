@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-hdpi_ic_app_foreground.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-hdpi\\ic_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_nav_header_home.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.grocerybudgetplanner.app-debug-49:/layout_activity_budget_page.xml.flat",
+        "source": "com.app.grocerybudgetplanner.app-main-51:/layout/activity_budget_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.app.grocerybudgetplanner.app-debug-49:/layout_activity_checkout_page.xml.flat",
+        "source": "com.app.grocerybudgetplanner.app-main-51:/layout/activity_checkout_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxxhdpi_ic_app_foreground.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxxhdpi\\ic_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-mdpi_ic_app_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-mdpi\\ic_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\menu_drawer_menu_home.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\menu\\drawer_menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_dialog_add_to_cart.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\dialog_add_to_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_activity_budget_page.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\activity_budget_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_activity_registration_page.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\activity_registration_page.xml"
+    },
+    {
+        "merged": "com.app.grocerybudgetplanner.app-debug-49:/layout_activity_login_page.xml.flat",
+        "source": "com.app.grocerybudgetplanner.app-main-51:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "com.app.grocerybudgetplanner.app-debug-49:/layout_activity_home_page.xml.flat",
+        "source": "com.app.grocerybudgetplanner.app-main-51:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxhdpi_ic_app.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxhdpi\\ic_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xhdpi_ic_app_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xhdpi\\ic_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-mdpi_ic_app_foreground.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-mdpi\\ic_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxhdpi_ic_app_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxhdpi\\ic_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-anydpi-v26_ic_app_round.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-anydpi-v26\\ic_app_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_activity_admin_page.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\activity_admin_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\drawable_ic_app.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\drawable\\ic_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxxhdpi_ic_app_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxxhdpi\\ic_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-hdpi_ic_app_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-hdpi\\ic_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.grocerybudgetplanner.app-debug-49:/layout_activity_admin_page.xml.flat",
+        "source": "com.app.grocerybudgetplanner.app-main-51:/layout/activity_admin_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xhdpi_ic_app_foreground.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xhdpi\\ic_app_foreground.webp"
+    },
+    {
+        "merged": "com.app.grocerybudgetplanner.app-debug-49:/layout_cart_item_layout.xml.flat",
+        "source": "com.app.grocerybudgetplanner.app-main-51:/layout/cart_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-hdpi_ic_app.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-hdpi\\ic_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xhdpi_ic_app.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xhdpi\\ic_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_grocery_item_layout.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\grocery_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-mdpi_ic_app.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-mdpi\\ic_app.webp"
+    },
+    {
+        "merged": "com.app.grocerybudgetplanner.app-debug-49:/menu_drawer_menu_home.xml.flat",
+        "source": "com.app.grocerybudgetplanner.app-main-51:/menu/drawer_menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_cart_item_layout.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\cart_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-anydpi-v26_ic_app.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-anydpi-v26\\ic_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\drawable_ic_app_background.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\drawable\\ic_app_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\mipmap-xxhdpi_ic_app_foreground.webp.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\mipmap-xxhdpi\\ic_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.app.grocerybudgetplanner.app-debug-49:/layout_activity_splash_screen.xml.flat",
+        "source": "com.app.grocerybudgetplanner.app-main-51:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\layout_activity_checkout_page.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\layout\\activity_checkout_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-debug-49:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\albra\\.gradle\\daemon\\8.11.1\\com.app.grocerybudgetplanner.app-main-51:\\drawable\\ic_notifications_black_24dp.xml"
+    }
+]

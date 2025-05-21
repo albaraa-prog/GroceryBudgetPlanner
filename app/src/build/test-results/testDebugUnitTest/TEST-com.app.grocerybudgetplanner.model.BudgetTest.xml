@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.app.grocerybudgetplanner.model.BudgetTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2025-05-21T14:48:31" hostname="DESKTOP-S8VBG0P" time="0.007">
+  <properties/>
+  <testcase name="testGetMonthAndSetMonth" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.003"/>
+  <testcase name="testGetYearAndSetYear" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testToMap" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testSetSpentThrowsExceptionWhenExceedsAmount" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testGetUserIdAndSetUserId" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testSetSpentThrowsExceptionWhenNegative" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testGetAmountAndSetAmount" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testSetRemainingThrowsExceptionWhenInvalid" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testSetRemaining" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testGetSpentAndSetSpent" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.001"/>
+  <testcase name="testSetPercentageUsed" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testSetPercentageUsedThrowsExceptionWhenOutOfRange" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testCanAfford" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testGetPercentageUsed" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testSetAmountThrowsExceptionWhenLessThanSpent" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testGetIdAndSetId" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testGetRemaining" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <testcase name="testToStringMethod" classname="com.app.grocerybudgetplanner.model.BudgetTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

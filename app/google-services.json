@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346475148242",
+    "project_id": "grocery-budget-planner-124a2",
+    "storage_bucket": "grocery-budget-planner-124a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346475148242:android:dac636d90252f579abce0b",
+        "android_client_info": {
+          "package_name": "com.app.grocerybudgetplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiZXugq05LvQB4lh9MLgI16WruEQcaxaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
