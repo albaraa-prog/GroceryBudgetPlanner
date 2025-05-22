@@ -27,6 +27,8 @@ public class Budget implements Serializable {
         this.amount = amount;
         this.spent = 0.0;
     }
+
+
     public String getId() {
         return id;
     }
